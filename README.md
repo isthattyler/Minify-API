@@ -7,6 +7,7 @@ Steps to set up
     ```bash
     git clone "https://github.com/isthattyler/Minify-API.git"
     source Minify-API/script.sh
+    chmod +x Minify-API/script.sh
     ```
-4. Go to any folder and write 'minify $1' with $1 == html or css
+4. To minify html file, write minify html. To minify css file, write minify css. By default it will choose css option.
 5. Enjoy!
