@@ -5,7 +5,7 @@ Steps to set up
 2. Open git bash and cd to the Script folder
 3. Type in follwing bash cmd
     ```bash
-    git clone https://github.com/isthattyler/Minify-API.git
+    git clone "https://github.com/isthattyler/Minify-API.git"
     source Minify-API/script.sh
     ```
 4. Go to any folder and write 'minify $1' with $1 == html or css
